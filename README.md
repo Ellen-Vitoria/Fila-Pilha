@@ -1,4 +1,4 @@
-# Pilha-Fila
+# Fila-Pilha
 
 Programa em C++ que faz a execução de fila (First-In, First-Out ou FIFO) e pilha (Last-In-First-Out ou LIFO) com números aleatórios (entre 35 a 78), utilizando a função rand().
 
